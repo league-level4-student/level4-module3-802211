@@ -55,7 +55,7 @@ public class ExceptionsDemo {
 			throw new Exception();
 		}
 	}
-	
+	 
 	// 4. Create a static void method called testMethod2(int x) that throws
 	//    a CustomException if x is negative.
 
